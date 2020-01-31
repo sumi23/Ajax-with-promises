@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "courses": [
+      {
+        "name": "database",
+        "score": 85
+      },
+      {
+        "name": "datastructures",
+        "score": 90
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "courses": [
+      {
+        "name": "circuits",
+        "score": 98
+      },
+      {
+        "name": "dsp",
+        "score": 90
+      },
+      {
+        "name": "dbms",
+        "score": 97
+      }
+    ]
+  }
+]
